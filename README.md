@@ -9,3 +9,7 @@ This is compiled version of the R package Seurat usable on the Cheaha computing 
 ## Installation
 
 Download or clone the repo to your personal space. Move the R packages from the repo into the directory you want to store the Seurat library in. By default, this would be $HOME/R/x86_64-pc-linux-gnu-library/4.1. Seurat should now be available to load into your R environment.
+
+## Links
+
+- [Seurat Main Page](https://satijalab.org/seurat/index.html)
