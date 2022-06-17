@@ -1,0 +1,2 @@
+CC=gcc
+CFLAGS=-O2 -ftree-vectorize -march=native -fno-math-errno
